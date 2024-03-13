@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/react_portfolio/static/css/main.744180a7.css",
-    "main.js": "/react_portfolio/static/js/main.66c274df.js",
+    "main.js": "/react_portfolio/static/js/main.185c2dc9.js",
+    "static/media/banapresso01.png": "/react_portfolio/static/media/banapresso01.5bbcbd9deb726c9fcb0d.png",
     "index.html": "/react_portfolio/index.html",
     "main.744180a7.css.map": "/react_portfolio/static/css/main.744180a7.css.map",
-    "main.66c274df.js.map": "/react_portfolio/static/js/main.66c274df.js.map"
+    "main.185c2dc9.js.map": "/react_portfolio/static/js/main.185c2dc9.js.map"
   },
   "entrypoints": [
     "static/css/main.744180a7.css",
-    "static/js/main.66c274df.js"
+    "static/js/main.185c2dc9.js"
   ]
 }
