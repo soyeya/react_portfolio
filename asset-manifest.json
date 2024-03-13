@@ -1,14 +1,31 @@
 {
   "files": {
     "main.css": "/react_portfolio/static/css/main.744180a7.css",
-    "main.js": "/react_portfolio/static/js/main.185c2dc9.js",
+    "main.js": "/react_portfolio/static/js/main.21464bed.js",
+    "static/media/animation01.gif": "/react_portfolio/static/media/animation01.c542746dafd633cd095e.gif",
+    "static/media/vue_img2.png": "/react_portfolio/static/media/vue_img2.11d9200cfeb921769f1c.png",
+    "static/media/vue_img1.png": "/react_portfolio/static/media/vue_img1.374a9f0868825304d2c8.png",
+    "static/media/rea_img1.png": "/react_portfolio/static/media/rea_img1.fd866ff61fd7fd306da6.png",
+    "static/media/rea_img2.png": "/react_portfolio/static/media/rea_img2.db582dd5233192df4d8d.png",
+    "static/media/banapresso_info.png": "/react_portfolio/static/media/banapresso_info.8c855aff89ac548287a0.png",
     "static/media/banapresso01.png": "/react_portfolio/static/media/banapresso01.5bbcbd9deb726c9fcb0d.png",
+    "static/media/ezpz_info.png": "/react_portfolio/static/media/ezpz_info.b3442a880796e59c16a7.png",
+    "static/media/banapresso02.png": "/react_portfolio/static/media/banapresso02.ed413f8a74a74348b084.png",
+    "static/media/banapresso03.png": "/react_portfolio/static/media/banapresso03.3e0d3ea8d6c00e3a2223.png",
+    "static/media/banapresso05.png": "/react_portfolio/static/media/banapresso05.b7636744f048df560ac9.png",
+    "static/media/ezpz02.png": "/react_portfolio/static/media/ezpz02.5f892d623d6d0ebdc816.png",
+    "static/media/ezpz06.png": "/react_portfolio/static/media/ezpz06.aec1c001196b9da40930.png",
+    "static/media/ezpz01.png": "/react_portfolio/static/media/ezpz01.38f34c76e9f717c2d3ec.png",
+    "static/media/ezpz04.png": "/react_portfolio/static/media/ezpz04.7a6aadf0156829a0f3fb.png",
+    "static/media/ezpz03.png": "/react_portfolio/static/media/ezpz03.426d1d0486b1acdd31d3.png",
+    "static/media/banapresso04.png": "/react_portfolio/static/media/banapresso04.08abee99fd5cd57419dc.png",
+    "static/media/ezpz05.png": "/react_portfolio/static/media/ezpz05.876a96364b01b8f0152e.png",
     "index.html": "/react_portfolio/index.html",
     "main.744180a7.css.map": "/react_portfolio/static/css/main.744180a7.css.map",
-    "main.185c2dc9.js.map": "/react_portfolio/static/js/main.185c2dc9.js.map"
+    "main.21464bed.js.map": "/react_portfolio/static/js/main.21464bed.js.map"
   },
   "entrypoints": [
     "static/css/main.744180a7.css",
-    "static/js/main.185c2dc9.js"
+    "static/js/main.21464bed.js"
   ]
 }
