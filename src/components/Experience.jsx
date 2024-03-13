@@ -1,7 +1,7 @@
 import React from 'react';
 import gif01 from '../assets/img/animation01.gif';
-import gif02 from '../assets/img/animation01.gif';
-import gif03 from '../assets/img/animation01.gif';
+import gif02 from '../assets/img/animation02.gif';
+import gif03 from '../assets/img/animation03.gif';
 
 const Experience = () => {
 

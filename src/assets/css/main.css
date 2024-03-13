@@ -306,7 +306,7 @@ a:visited{color:#333;}
     width: 90%;
     padding: 80px 0px;
     margin:0 auto;
-    overflow: hidden;
+    overflow-x: hidden;
  }
  
  .reactContainer .projectContent .imgscroller strong{
